@@ -56,6 +56,15 @@ h3 { font-size: 1.1rem; margin-top: 1.8rem; }
 .doc th, .doc td { border: 1px solid var(--line); padding: .4rem .6rem; text-align: left; vertical-align: top; }
 .doc hr { border: 0; border-top: 1px solid var(--line); margin: 2rem 0; }
 .doc { overflow-wrap: anywhere; }
+.doc blockquote {
+  margin: 1rem 0;
+  padding: 0.15rem 0 0.15rem 1rem;
+  border-left: 3px solid var(--line);
+}
+.doc blockquote p { margin: 0.4rem 0; }
+.doc blockquote .cite { color: var(--muted); font-size: .92rem; }
+.toc { margin: 0.5rem 0 1.25rem; padding-left: 1.25rem; }
+.toc li { margin: 0.15rem 0; }
 
 .site-footer {
   max-width: var(--max); margin: 0 auto; padding: 1.25rem; border-top: 1px solid var(--line);
