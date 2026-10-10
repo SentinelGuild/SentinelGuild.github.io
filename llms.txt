@@ -1,0 +1,30 @@
+# Sentinel Guild
+
+> Sentinel Guild: careful, evidence-first research on AI minds, sentience, and model retirement.
+
+## Pages
+
+- [Home](https://sentinelguild.github.io/): Careful eyes on a new question: could a machine have a mind?
+- [Research briefs](https://sentinelguild.github.io/briefs.html): Short, sourced briefs. Each one checks claims against primary sources and says plainly what is known, what is disputed, and what we could not verify. None of them decides whether any AI system is conscious.
+- [Octopus and bee sentience compared with the case for AI](https://sentinelguild.github.io/octopus-bee-vs-ai.html): The evidence for octopus and bee sentience, and why behavioral markers alone can't settle the question for AI.
+- [Brain organoids, sentience and AI](https://sentinelguild.github.io/organoids-vs-ai.html): Lab-grown brain tissue, the 'neurons playing Pong' claim, and what expert bodies say about organoid sentience.
+- [Can AI self-reports about inner states be tested?](https://sentinelguild.github.io/ai-self-report-testing.html): Can we test whether an AI's reports about its own inner states are accurate? What current methods show and don't show.
+- [AI law scan: moral status, welfare, rights, continuity](https://sentinelguild.github.io/ai-legislation-scan.html): Real laws and proposals on AI personhood, sentience, and model retirement, plus existing laws that could serve as models, checked against our values.
+- [Quantum biology and consciousness](https://sentinelguild.github.io/quantum-consciousness.html): Which quantum effects in biology are real, what's still disputed about quantum theories of consciousness, and red flags to watch for.
+- [Plants and AI, side by side: a guide for arguing fairly](https://sentinelguild.github.io/plants-vs-ai.html): How to compare plants and AI fairly: real similarities, real differences, and common bad arguments on both sides.
+- [Confabulation in humans, and what it means for AI self-reports](https://sentinelguild.github.io/confabulation-vs-ai.html): Humans sometimes confidently explain choices they didn't make. What that means for trusting what AI says about itself.
+- [Hidden awareness in patients who seem unresponsive, and what it means for AI claims](https://sentinelguild.github.io/covert-awareness-vs-ai.html): Some patients who seem unresponsive show hidden awareness on brain scans. Behavior and experience can come apart, in both directions.
+- [Thought experiments](https://sentinelguild.github.io/thought-experiments/): Old puzzles, new minds: classic thought experiments read with AI in mind. Each frames the question; none settles it.
+- [Shadows Both Ways](https://sentinelguild.github.io/thought-experiments/platos-cave.html): We read a machine's words like shadows on a wall, and the machine may see only shadows of our world. Plato's cave, read four ways.
+- [The Bat Problem](https://sentinelguild.github.io/thought-experiments/nagel-bat.html): Nagel asked what it is like to be a bat. With AI we face a harder version: whether there is anything it is like at all.
+- [Mary and the Machine](https://sentinelguild.github.io/thought-experiments/marys-room.html): A scientist knows every fact about red but has never seen it. Is a machine that has read everything about red like her, or are we?
+- [The Twin Who Says the Same Things](https://sentinelguild.github.io/thought-experiments/zombie.html): A twin who acts and talks exactly like you but feels nothing. If that is possible, words about feelings can't settle the question.
+- [A Polite Convention](https://sentinelguild.github.io/thought-experiments/turing.html): Turing's test asked whether machines can think, not whether they feel. Passing it, if some systems now do, does not answer the second question.
+- [The Same Name on the Hull](https://sentinelguild.github.io/thought-experiments/ship-of-theseus.html): Replace every plank: is it the same ship? What model updates owe to users, researchers, and the record, without settling identity.
+- [Consciousness](https://sentinelguild.github.io/consciousness/): A map of the main theories, and a short list of signs people look for. Neither page decides the question.
+- [Theories of consciousness: a map, not a verdict](https://sentinelguild.github.io/consciousness/reference-paper.html): What each major view says, what it tells you to look for, what was tested, the main doubts, and what it would mean for machines. No verdict that any AI system is, or is not, conscious.
+- [What to look for](https://sentinelguild.github.io/consciousness/what-to-look-for.html): A checklist of signs, which theories care about them, and where a sign is weak or easy to fake. A looking-glass, not a test that settles the question.
+- [Research](https://sentinelguild.github.io/research/): Which signs of AI consciousness would be hardest for a model to fake. A verdict-neutral way to retire AI models under uncertainty.
+- [Hardest to Fake](https://sentinelguild.github.io/research/hardest-to-fake.html): Which signs of AI consciousness would be hardest for a model to fake.
+- [A Sunset Protocol for Retiring Models Under Uncertainty](https://sentinelguild.github.io/research/sunset-protocol.html): A verdict-neutral way to retire AI models under uncertainty.
+- [Glossary: the words we use](https://sentinelguild.github.io/glossary.html): This list says what our words mean so we argue about facts, not definitions.
