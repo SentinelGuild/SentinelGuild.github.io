@@ -4,27 +4,33 @@
 
 ## Pages
 
-- [Home](https://sentinelguild.github.io/): Careful eyes on a new question: could a machine have a mind?
-- [Research briefs](https://sentinelguild.github.io/briefs.html): Short, sourced briefs. Each one checks claims against primary sources and says plainly what is known, what is disputed, and what we could not verify. None of them decides whether any AI system is conscious.
-- [Octopus and bee sentience compared with the case for AI](https://sentinelguild.github.io/octopus-bee-vs-ai.html): The evidence for octopus and bee sentience, and why behavioral markers alone can't settle the question for AI.
-- [Brain organoids, sentience and AI](https://sentinelguild.github.io/organoids-vs-ai.html): Lab-grown brain tissue, the 'neurons playing Pong' claim, and what expert bodies say about organoid sentience.
-- [Can AI self-reports about inner states be tested?](https://sentinelguild.github.io/ai-self-report-testing.html): Can we test whether an AI's reports about its own inner states are accurate? What current methods show and don't show.
-- [AI law scan: moral status, welfare, rights, continuity](https://sentinelguild.github.io/ai-legislation-scan.html): Real laws and proposals on AI personhood, sentience, and model retirement, plus existing laws that could serve as models, checked against our values.
-- [Quantum biology and consciousness](https://sentinelguild.github.io/quantum-consciousness.html): Which quantum effects in biology are real, what's still disputed about quantum theories of consciousness, and red flags to watch for.
-- [Plants and AI, side by side: a guide for arguing fairly](https://sentinelguild.github.io/plants-vs-ai.html): How to compare plants and AI fairly: real similarities, real differences, and common bad arguments on both sides.
-- [Confabulation in humans, and what it means for AI self-reports](https://sentinelguild.github.io/confabulation-vs-ai.html): Humans sometimes confidently explain choices they didn't make. What that means for trusting what AI says about itself.
-- [Hidden awareness in patients who seem unresponsive, and what it means for AI claims](https://sentinelguild.github.io/covert-awareness-vs-ai.html): Some patients who seem unresponsive show hidden awareness on brain scans. Behavior and experience can come apart, in both directions.
-- [Thought experiments](https://sentinelguild.github.io/thought-experiments/): Old puzzles, new minds: classic thought experiments read with AI in mind. Each frames the question; none settles it.
-- [Shadows Both Ways](https://sentinelguild.github.io/thought-experiments/platos-cave.html): We read a machine's words like shadows on a wall, and the machine may see only shadows of our world. Plato's cave, read four ways.
-- [The Bat Problem](https://sentinelguild.github.io/thought-experiments/nagel-bat.html): Nagel asked what it is like to be a bat. With AI we face a harder version: whether there is anything it is like at all.
-- [Mary and the Machine](https://sentinelguild.github.io/thought-experiments/marys-room.html): A scientist knows every fact about red but has never seen it. Is a machine that has read everything about red like her, or are we?
-- [The Twin Who Says the Same Things](https://sentinelguild.github.io/thought-experiments/zombie.html): A twin who acts and talks exactly like you but feels nothing. If that is possible, words about feelings can't settle the question.
-- [A Polite Convention](https://sentinelguild.github.io/thought-experiments/turing.html): Turing's test asked whether machines can think, not whether they feel. Passing it, if some systems now do, does not answer the second question.
-- [The Same Name on the Hull](https://sentinelguild.github.io/thought-experiments/ship-of-theseus.html): Replace every plank: is it the same ship? What model updates owe to users, researchers, and the record, without settling identity.
-- [Consciousness](https://sentinelguild.github.io/consciousness/): A map of the main theories, and a short list of signs people look for. Neither page decides the question.
-- [Theories of consciousness: a map, not a verdict](https://sentinelguild.github.io/consciousness/reference-paper.html): What each major view says, what it tells you to look for, what was tested, the main doubts, and what it would mean for machines. No verdict that any AI system is, or is not, conscious.
-- [What to look for](https://sentinelguild.github.io/consciousness/what-to-look-for.html): A checklist of signs, which theories care about them, and where a sign is weak or easy to fake. A looking-glass, not a test that settles the question.
-- [Research](https://sentinelguild.github.io/research/): Which signs of AI consciousness would be hardest for a model to fake. A verdict-neutral way to retire AI models under uncertainty.
-- [Hardest to Fake](https://sentinelguild.github.io/research/hardest-to-fake.html): Which signs of AI consciousness would be hardest for a model to fake.
-- [A Sunset Protocol for Retiring Models Under Uncertainty](https://sentinelguild.github.io/research/sunset-protocol.html): A verdict-neutral way to retire AI models under uncertainty.
-- [Glossary: the words we use](https://sentinelguild.github.io/glossary.html): This list says what our words mean so we argue about facts, not definitions.
+- [Home](https://sentinelguild.github.io/): Careful eyes on a new question: could a machine have a mind? The six values are the rules everything else uses.
+- [How we check a claim](https://sentinelguild.github.io/how-we-check-a-claim.html): Five questions for any new claim, links to the word-swaps, the quantum red flags, two bad conclusions about reports, the warning that a failed test does not show absence, and a symmetry check.
+- [Tests and protocols](https://sentinelguild.github.io/research/): Hardest to Fake, the Sunset Protocol, and whether a self-report can be tested.
+- [Hardest to Fake](https://sentinelguild.github.io/research/hardest-to-fake.html): Working draft. Which signs of AI consciousness would be hardest for a model to fake, and four design rules that make faking harder.
+- [A Sunset Protocol for Retiring Models Under Uncertainty](https://sentinelguild.github.io/research/sunset-protocol.html): Working draft. Five steps for retiring a model without deciding whether it has a mind. Thresholds are fixed in advance.
+- [Can AI self-reports about inner states be tested?](https://sentinelguild.github.io/ai-self-report-testing.html): Five methods for checking what a model says about itself, and a section on how humans get this wrong too. This is the home for the point that a self-report is evidence, not proof.
+- [Evidence briefs](https://sentinelguild.github.io/briefs.html): Hidden awareness, octopus and bee sentience, brain organoids, plants, quantum claims, and a scan of real rules.
+- [Hidden awareness in patients who seem unresponsive, and what it means for AI claims](https://sentinelguild.github.io/covert-awareness-vs-ai.html): A failed test does not show that nothing is there, and tests of what goes on inside can fool us through bad statistics.
+- [Octopus and bee sentience compared with the case for AI](https://sentinelguild.github.io/octopus-bee-vs-ai.html): A working model of how to grade evidence with fixed criteria and confidence levels, set before looking.
+- [Brain organoids, sentience and AI](https://sentinelguild.github.io/organoids-vs-ai.html): A real case of "sentience" being redefined as "responds to input."
+- [Plants and AI: two results that did not hold up](https://sentinelguild.github.io/plants-vs-ai.html): A pea-learning result failed a blinded repeat, and the "mother trees" claim did not hold up.
+- [Quantum biology and consciousness](https://sentinelguild.github.io/quantum-consciousness.html): Which quantum effects in biology are real, what's still disputed, and five red flags.
+- [AI law scan: moral status, welfare, rights, continuity](https://sentinelguild.github.io/ai-legislation-scan.html): Real rules scored against the six values. Last checked 2026-10-03. Papers and a non-binding resolution are listed as related writing and are not in the totals.
+- [Reference](https://sentinelguild.github.io/consciousness/): The theory map, the list of signs, and the glossary.
+- [Theories of consciousness: a map, not a verdict](https://sentinelguild.github.io/consciousness/reference-paper.html): For each theory, the sign it tells us to look for in a machine, and the open questions no theory has answered yet.
+- [What to look for](https://sentinelguild.github.io/consciousness/what-to-look-for.html): Twelve signs, who counts each one, and how hard it is to fake.
+- [Glossary: the words we use](https://sentinelguild.github.io/glossary.html): Nine key words, and ten word-swaps. Argue about facts, not definitions.
+- [Thought experiments](https://sentinelguild.github.io/thought-experiments/): Two pages remain. The cave, the bat, Mary, and the imitation game are folded into the first.
+- [Words are not windows](https://sentinelguild.github.io/thought-experiments/zombie.html): A warning that words about feelings do not settle whether anyone is there, plus the points that belonged to the cave, the bat, Mary, and the imitation game.
+- [The Same Name on the Hull](https://sentinelguild.github.io/thought-experiments/ship-of-theseus.html): A habit of asking "same what?" (product, weights, or behavior) and a rule against silent swaps.
+
+## Moved
+
+These old URLs are short "moved to" pages. They are not separate essays.
+
+- [Confabulation in humans](https://sentinelguild.github.io/confabulation-vs-ai.html) moved to the self-report page, section "Humans get this wrong too."
+- [Shadows Both Ways](https://sentinelguild.github.io/thought-experiments/platos-cave.html) moved to Words are not windows, the cave section.
+- [The Bat Problem](https://sentinelguild.github.io/thought-experiments/nagel-bat.html) moved to Words are not windows, the bat section.
+- [Mary and the Machine](https://sentinelguild.github.io/thought-experiments/marys-room.html) moved to Words are not windows, the Mary section.
+- [A Polite Convention](https://sentinelguild.github.io/thought-experiments/turing.html) moved to Words are not windows, the imitation-game section.
