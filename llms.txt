@@ -13,6 +13,7 @@
 - [Evidence briefs](https://sentinelguild.github.io/briefs.html): Hidden awareness, octopus and bee sentience, brain organoids, plants, quantum claims, and a scan of real rules.
 - [Hidden awareness in patients who seem unresponsive, and what it means for AI claims](https://sentinelguild.github.io/covert-awareness-vs-ai.html): A failed test does not show that nothing is there, and tests of what goes on inside can fool us through bad statistics.
 - [Octopus and bee sentience compared with the case for AI](https://sentinelguild.github.io/octopus-bee-vs-ai.html): A working model of how to grade evidence with fixed criteria and confidence levels, set before looking.
+- [Detecting a non-human-style consciousness in AI](https://sentinelguild.github.io/non-human-detection-vs-ai.html): Substrate-neutral candidate signs, how each could be gamed, and the controls that matter more than the signs themselves.
 - [Brain organoids, sentience and AI](https://sentinelguild.github.io/organoids-vs-ai.html): A real case of "sentience" being redefined as "responds to input."
 - [Plants and AI: two results that did not hold up](https://sentinelguild.github.io/plants-vs-ai.html): A pea-learning result failed a blinded repeat, and the "mother trees" claim did not hold up.
 - [Quantum biology and consciousness](https://sentinelguild.github.io/quantum-consciousness.html): Which quantum effects in biology are real, what's still disputed, and five red flags.
